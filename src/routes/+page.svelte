@@ -10977,7 +10977,7 @@
     };
 
     function sendEmail() {
-        fetch('http://localhost:3000/email', {
+        fetch('https://avex-backend.onrender.com/email', {
             method: 'POST',
             mode: "cors",
             headers: {
