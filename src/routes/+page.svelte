@@ -10825,14 +10825,16 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container px-5">
-        <a class="navbar-brand" href="#!">Start Bootstrap</a>
+        <a class="navbar-brand" href="#!">
+            <h1 class="display-5 fw-bolder text-white mb-2">Avex</h1>
+        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-                <li class="nav-item"><a class="nav-link" href="#features">Services</a></li>
+                <li class="nav-item"><a class="nav-link" href="#about">Sobre</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contact">Contato</a></li>
+                <li class="nav-item"><a class="nav-link" href="#features">Serviços</a></li>
             </ul>
         </div>
     </div>
@@ -10843,11 +10845,11 @@
         <div class="row gx-5 justify-content-center">
             <div class="col-lg-6">
                 <div class="text-center my-5">
-                    <h1 class="display-5 fw-bolder text-white mb-2">Present your business in a whole new way</h1>
-                    <p class="lead text-white-50 mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
+                    <h1 class="display-5 fw-bolder text-white mb-2">Parceiro estratégico para o seu sucesso digital</h1>
+                    <p class="lead text-white-50 mb-4">Imagine um universo onde suas ideias se transformam em realidade, onde cada passo é guiado pela inovação e paixão por superar desafios.</p>
                     <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
-                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
-                        <a class="btn btn-outline-light btn-lg px-4" href="#about">Learn More</a>
+                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Vamos Começar</a>
+                        <a class="btn btn-outline-light btn-lg px-4" href="#about">Saiba mais</a>
                     </div>
                 </div>
             </div>
@@ -10860,30 +10862,22 @@
         <div class="row gx-5">
             <div class="col-lg-4 mb-5 mb-lg-0">
                 <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-globe"></i></div>
-                <h2 class="h4 fw-bolder">Featured title</h2>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                <a class="text-decoration-none" href="#!">
+                <h2 class="h4 fw-bolder">Desenvolvimento Web</h2>
+                <p>Nossa equipe altamente especializada é capaz de criar websites funcionais, intuitivos e visualmente atraentes, que refletem a essência da sua marca.</p>
+                <!-- <a class="text-decoration-none" href="#!">
                     Call to action
                     <i class="bi bi-arrow-right"></i>
-                </a>
+                </a> -->
             </div>
             <div class="col-lg-4 mb-5 mb-lg-0">
                 <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-cart2"></i></div>
-                <h2 class="h4 fw-bolder">Featured title</h2>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                <a class="text-decoration-none" href="#!">
-                    Call to action
-                    <i class="bi bi-arrow-right"></i>
-                </a>
+                <h2 class="h4 fw-bolder">E-commerce</h2>
+                <p>Aqui na nossa empresa, estamos dedicados a criar lojas virtuais envolventes e altamente funcionais que transformam visitantes em clientes fiéis.</p>
             </div>
             <div class="col-lg-4">
                 <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-bar-chart"></i></div>
-                <h2 class="h4 fw-bolder">Featured title</h2>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                <a class="text-decoration-none" href="#!">
-                    Call to action
-                    <i class="bi bi-arrow-right"></i>
-                </a>
+                <h2 class="h4 fw-bolder">Gestão de tráfego Pago</h2>
+                <p>Com expertise em estratégias de marketing digital, nossa equipe especializada está pronta para direcionar um fluxo qualificado de visitantes para o seu site ou e-commerce por meio de campanhas pagas inteligentes.</p>
             </div>
         </div>
     </div>
@@ -10891,30 +10885,18 @@
         <div class="row gx-5">
             <div class="col-lg-4 mb-5 mb-lg-0">
                 <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-phone"></i></div>
-                <h2 class="h4 fw-bolder">Featured title</h2>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                <a class="text-decoration-none" href="#!">
-                    Call to action
-                    <i class="bi bi-arrow-right"></i>
-                </a>
+                <h2 class="h4 fw-bolder">Desenvolvimento Mobile</h2>
+                <p>Nossa equipe de desenvolvedores experientes está comprometida em criar soluções mobile personalizadas, alinhadas com suas metas e necessidades específicas.</p>
             </div>
             <div class="col-lg-4 mb-5 mb-lg-0">
                 <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-people"></i></div>
-                <h2 class="h4 fw-bolder">Featured title</h2>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                <a class="text-decoration-none" href="#!">
-                    Call to action
-                    <i class="bi bi-arrow-right"></i>
-                </a>
+                <h2 class="h4 fw-bolder">Acessoria de Mídia</h2>
+                <p>Nossa equipe de especialistas em marketing digital está pronta para elevar a visibilidade e a reputação da sua marca, através da gestão estratégica de campanhas em diversas plataformas e canais.</p>
             </div>
             <div class="col-lg-4">
                 <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-shop-window"></i></div>
-                <h2 class="h4 fw-bolder">Featured title</h2>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                <a class="text-decoration-none" href="#!">
-                    Call to action
-                    <i class="bi bi-arrow-right"></i>
-                </a>
+                <h2 class="h4 fw-bolder">Consutoria de Marketing</h2>
+                <p>Nossa equipe de consultores altamente capacitados está pronta para traçar um plano personalizado, alinhado com seus objetivos e necessidades específicas.</p>
             </div>
         </div>
     </div>
@@ -10923,8 +10905,9 @@
 <section class="py-5 border-bottom" id="about">
     <div class="container px-5 my-5 px-5">
         <div class="text-center mb-7">
-                <h2>About this page</h2>
-                <p class="lead">This is a great place to talk about your webpage. This template is purposefully unstyled so you can use it as a boilerplate or starting point for you own landing page designs! This template features:</p>
+                <h2>Sobre</h2>
+                <p class="lead">Somos uma equipe apaixonada por transformar ideias em realidade digital. Nossa missão é impulsionar o sucesso do seu negócio por meio de soluções inovadoras e estratégicas de marketing digital, desenvolvimento web e mobile, gestão de tráfego pago e criação de e-commerce.</p>
+                <p class="lead">Com uma vasta experiência no mercado e um time altamente qualificado, estamos prontos para encarar desafios e criar soluções personalizadas que se adequem às suas necessidades específicas. Entendemos que cada empresa é única, e é por isso que nos dedicamos a entender profundamente seus objetivos e metas para entregar resultados excepcionais.</p>
         </div>
     </div>
 </section>
@@ -10932,8 +10915,8 @@
 <section class="py-5 border-bottom" id="testimonials">
     <div class="container px-5 my-5 px-5">
         <div class="text-center mb-5">
-            <h2 class="fw-bolder">Customer testimonials</h2>
-            <p class="lead mb-0">Our customers love working with us</p>
+            <h2 class="fw-bolder">Depoimentos de Clientes</h2>
+            <p class="lead mb-0">Nós temos como prioridade ouvir nossos clientes</p>
         </div>
         <div class="row gx-5 justify-content-center">
             <div class="col-lg-6">
@@ -10943,8 +10926,8 @@
                         <div class="d-flex">
                             <div class="flex-shrink-0"><i class="bi bi-chat-right-quote-fill text-primary fs-1"></i></div>
                             <div class="ms-4">
-                                <p class="mb-1">Thank you for putting together such a great product. We loved working with you and the whole team, and we will be recommending you to others!</p>
-                                <div class="small text-muted">- Client Name, Location</div>
+                                <p class="mb-1">Adoramos trabalhar com você e toda a equipe, e vamos recomendá-lo a outras pessoas. Esperamos que continue com esse bom trabalho.</p>
+                                <div class="small text-muted">- Jeferson, Salvador/Bahia</div>
                             </div>
                         </div>
                     </div>
@@ -10955,8 +10938,8 @@
                         <div class="d-flex">
                             <div class="flex-shrink-0"><i class="bi bi-chat-right-quote-fill text-primary fs-1"></i></div>
                             <div class="ms-4">
-                                <p class="mb-1">The whole team was a huge help with putting things together for our company and brand. We will be hiring them again in the near future for additional work!</p>
-                                <div class="small text-muted">- Client Name, Location</div>
+                                <p class="mb-1">Toda a equipe foi uma grande ajuda na organização das coisas para nossa empresa e marca. Iremos contratá-los novamente em um futuro próximo para trabalhos adicionais!</p>
+                                <div class="small text-muted">- Indiara, Salvador/Bahia</div>
                             </div>
                         </div>
                     </div>
@@ -11001,8 +10984,8 @@
     <div class="container px-5 my-5 px-5">
         <div class="text-center mb-5">
             <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-envelope"></i></div>
-            <h2 class="fw-bolder">Get in touch</h2>
-            <p class="lead mb-0">We'd love to hear from you</p>
+            <h2 class="fw-bolder">Entre em contato</h2>
+            <p class="lead mb-0">Adoraríamos ouvir de você</p>
         </div>
         <div class="row gx-5 justify-content-center">
             <div class="col-lg-6">
@@ -11017,26 +11000,26 @@
                     <!-- Name input-->
                     <div class="form-floating mb-3">
                         <input class="form-control" id="name" name="name" bind:value={formData.name} type="text" placeholder="Enter your name..." data-sb-validations="required" />
-                        <label for="name">Full name</label>
+                        <label for="name">Nome completo</label>
                         <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                     </div>
                     <!-- Email address input-->
                     <div class="form-floating mb-3">
                         <input class="form-control" id="email" name="email" bind:value={formData.email} type="email" placeholder="name@example.com" data-sb-validations="required,email" />
-                        <label for="email">Email address</label>
+                        <label for="email">Email</label>
                         <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                         <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                     </div>
                     <!-- Phone number input-->
                     <div class="form-floating mb-3">
                         <input class="form-control"  id="phone" name="phone" bind:value={formData.phone} type="tel" placeholder="(123) 456-7890" data-sb-validations="required" />
-                        <label for="phone">Phone number</label>
+                        <label for="phone">Telefone</label>
                         <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                     </div>
                     <!-- Message input-->
                     <div class="form-floating mb-3">
                         <textarea class="form-control" id="message" name="message" bind:value={formData.message} placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
-                        <label for="message">Message</label>
+                        <label for="message">Mensagem</label>
                         <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                     </div>
                     <!-- Submit success message-->
