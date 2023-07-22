@@ -10927,7 +10927,7 @@
                             <div class="flex-shrink-0"><i class="bi bi-chat-right-quote-fill text-primary fs-1"></i></div>
                             <div class="ms-4">
                                 <p class="mb-1">Adoramos trabalhar com você e toda a equipe, e vamos recomendá-lo a outras pessoas. Esperamos que continue com esse bom trabalho.</p>
-                                <div class="small text-muted">- Jeferson, Salvador/Bahia</div>
+                                <div class="small text-muted">- Marcos Medrado, São Paulo/São Paulo</div>
                             </div>
                         </div>
                     </div>
@@ -10939,7 +10939,7 @@
                             <div class="flex-shrink-0"><i class="bi bi-chat-right-quote-fill text-primary fs-1"></i></div>
                             <div class="ms-4">
                                 <p class="mb-1">Toda a equipe foi uma grande ajuda na organização das coisas para nossa empresa e marca. Iremos contratá-los novamente em um futuro próximo para trabalhos adicionais!</p>
-                                <div class="small text-muted">- Indiara, Salvador/Bahia</div>
+                                <div class="small text-muted">- João Pedro, Salvador/Bahia</div>
                             </div>
                         </div>
                     </div>
